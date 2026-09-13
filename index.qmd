@@ -1,28 +1,33 @@
 ---
-title: "Laura Pacin"
+title: false
+pagetitle: "Laura Pacin"
 toc: false
 ---
 
 ::: {.columns .homepage-hero}
 
-::: {.column width="35%"}
+::: {.column width="38%"}
 
-<center>
+<div class="profile-column">
 
-![](profile.jpg){.profile-photo width="11em"}
+![](profile.jpg){.profile-photo}
 
 # Laura Pacin
 
 **Student in Economics -- SP**  
 *Department of Economics / CRIS*
 
-</center>
+</div>
 
 :::
 
-::: {.column width="65%"}
+::: {.column width="62%"}
 
-> Labor economics, discrimination, inequality, and public policy. My research focuses on how firms and labor-market institutions shape inequalities across hiring and careers.
+<div class="profile-description">
+
+Labor economics, discrimination, inequality, and public policy. My research focuses on how firms and labor-market institutions shape inequalities across hiring and careers.
+
+</div>
 
 <div class="homepage-links">
 
