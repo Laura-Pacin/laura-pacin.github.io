@@ -5,11 +5,10 @@ toc: false
 
 ## Published reports
 
-- **International Labour Organization (2025).** [**Employment Embedded in Circular Economy Trade**](https://www.ilo.org/publications/circular-economy-trade-and-employment-0)
-  With M. P. Ramos, C. Romero, G. Michelena, and C. Ernst.
+- **International Labour Organization (2025).** [**Employment Embedded in Circular Economy Trade**](https://www.ilo.org/publications/circular-economy-trade-and-employment-0), with M. P. Ramos, C. Romero, G. Michelena, and C. Ernst.
 
-- **International Labour Organization (2025).** [**E-waste and Employment around the World**](https://www.ilo.org/publications/e-waste-and-employment-around-world), International Labour Organization, 2025.  
-  With M. P. Ramos, C. Romero, G. Michelena, and C. Ernst.
+- **International Labour Organization (2025).** [**E-waste and Employment around the World**](https://www.ilo.org/publications/e-waste-and-employment-around-world),
+  with M. P. Ramos, C. Romero, G. Michelena, and C. Ernst.
 
 
 ## Work in progress
