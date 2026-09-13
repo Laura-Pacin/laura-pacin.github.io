@@ -1,6 +1,4 @@
-# Laura Pacin academic website
 
-A simple Quarto academic website inspired by Louis Sirugue's site structure.
 
 ## Files
 
