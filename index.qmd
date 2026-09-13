@@ -11,7 +11,6 @@ toc: false
 
 ![](profile.jpg){.profile-photo}
 
-# Laura Pacin
 
 **Student in Economics -- SP**  
 *Department of Economics / CRIS*
@@ -24,7 +23,7 @@ toc: false
 
 <div class="profile-description">
 
-Labor economics, discrimination, inequality, and public policy. My research focuses on how firms and labor-market institutions shape inequalities across hiring and careers.
+My research focuses on discrimination and inequalities in the labor market. In particular, I study how firms and labor-market institutions shape inequalities across hiring and careers, and the role of public policies in reducing them.
 
 </div>
 
