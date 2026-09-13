@@ -1,5 +1,4 @@
 ---
-title: false
 pagetitle: "Laura Pacin"
 toc: false
 ---
