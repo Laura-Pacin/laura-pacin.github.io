@@ -3,17 +3,23 @@ title: "Research"
 toc: false
 ---
 
-## Research interests
+## Published reports
 
-Labor economics, discrimination, inequality, public economics, and applied microeconometrics.
+- **International Labour Organization (2025).** [**Employment Embedded in Circular Economy Trade**](https://www.ilo.org/publications/circular-economy-trade-and-employment-0)
+  With M. P. Ramos, C. Romero, G. Michelena, and C. Ernst.
+
+- **International Labour Organization (2025).** [**E-waste and Employment around the World**](https://www.ilo.org/publications/e-waste-and-employment-around-world), International Labour Organization, 2025.  
+  With M. P. Ramos, C. Romero, G. Michelena, and C. Ernst.
+
 
 ## Work in progress
 
 
-## Research experience
 
-- **LIEPP -- Sciences Po**, Research Assistant, with Mirna Safi and Morgane Laouénan.
-- **MESi -- IIEP (UBA-CONICET)**, Research Assistant on projects with the International Labour Organization.
-- **OFCE -- Sciences Po**, Research Assistant with Raul Sampognaro.
-- **MESi -- IIEP (UBA-CONICET)**, Research Assistant with Priscila Ramos.
-- **EDIL -- IIEP (UBA-CONICET)**, Research Assistant with Danilo Trupkin.
+## Research assistantships
+
+- **LIEPP -- Sciences Po**, supervised by Mirna Safi and Morgane Laouénan.
+- **MESi -- IIEP (UBA-CONICET)** with the International Labour Organization.
+- **OFCE -- Sciences Po**, supervised by Raul Sampognaro.
+- **MESi -- IIEP (UBA-CONICET)**, supervised by Priscila Ramos.
+- **EDIL -- IIEP (UBA-CONICET)**, supervised by Danilo Trupkin.
