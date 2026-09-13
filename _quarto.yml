@@ -27,3 +27,6 @@ format:
     theme: flatly
     css: styles.css
     toc: false
+    include-in-header:
+      text: |
+        <meta name="google-site-verification" content="UAUSraGjHYn4iCnyp-xNrh839ZFrGyzOixv7p98UPqQ" />
