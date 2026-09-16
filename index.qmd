@@ -12,7 +12,7 @@ toc: false
 ![](profile.jpg){.profile-photo}
 
 
-**PhD Student in Economics -- Sciences Po **  
+**PhD Student in Economics -- Sciences Po Paris **  
 *Department of Economics & CRIS*
 
 </div>
@@ -38,7 +38,7 @@ My research focuses on discrimination and inequalities in the labor market. In p
 </div>
 
 <p class="small-contact">
-Paris, France
+28 Rue des Saints-Pères, Paris
 </p>
 
 :::
