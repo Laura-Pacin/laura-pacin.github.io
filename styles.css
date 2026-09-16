@@ -123,7 +123,7 @@ a {
 
 .homepage-links {
   display: flex;
-  flex-direction: row;
+  justify-content: center;
   gap: 0.45rem;
   flex-wrap: nowrap;
   margin-top: 1.4rem;
@@ -154,6 +154,7 @@ a {
   font-size: 0.9rem;
   color: #6c757d;
   margin-top: 1rem;
+  text-align: center;
 }
 
 
