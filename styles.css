@@ -1,6 +1,4 @@
-/* Laura Pacin academic website */
 
-/* Laura Pacin academic website */
 
 /* Color palette */
 :root {
@@ -16,22 +14,25 @@
   --muted: #6F6A60;
 }
 
+
+/* Navbar */
+
 .navbar {
   font-size: 0.98rem;
-  background-color: var(--beige) !important;
+  background-color: var(--olive) !important;
 }
 
 .navbar-brand {
   font-weight: 600;
-  color: var(--dark) !important;
+  color: var(--cream) !important;
 }
 
 .navbar .nav-link {
-  color: var(--dark) !important;
+  color: var(--cream) !important;
 }
 
 .navbar .nav-link:hover {
-  color: var(--olive) !important;
+  color: white !important;
 }
 
 #hero-heading blockquote {
@@ -119,8 +120,24 @@ a {
   max-width: 650px;
 }
 
+
+.homepage-links {
+  display: flex;
+  flex-direction: row;
+  gap: 0.45rem;
+  flex-wrap: nowrap;
+  margin-top: 1.4rem;
+  margin-bottom: 1rem;
+}
+
 .homepage-links .btn {
+  display: inline-block;
+  width: auto;
+  padding: 0.35rem 0.7rem;
+  font-size: 0.88rem;
+  line-height: 1.2;
   text-decoration: none;
+
   background-color: var(--dark);
   border-color: var(--dark);
   color: white;
@@ -131,6 +148,7 @@ a {
   border-color: var(--olive);
   color: white;
 }
+
 
 .small-contact {
   font-size: 0.9rem;
