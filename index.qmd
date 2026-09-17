@@ -9,7 +9,7 @@ toc: false
 
 <div class="profile-column">
 
-![](profile.jpg){.profile-photo}
+![](Picture.jpeg){.profile-photo}
 
 
 **Student in Economics**  
