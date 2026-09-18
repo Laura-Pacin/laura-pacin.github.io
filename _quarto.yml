@@ -14,7 +14,7 @@ website:
         href: research/index.qmd
       - text: "Teaching"
         href: teaching/index.qmd
-       - text: "Event organization"
+      - text: "Event organization"
         href: eventorganization/index.qmd
     right:
       - icon: linkedin
