@@ -16,6 +16,8 @@ website:
         href: teaching/index.qmd
       - text: "Event organization"
         href: eventorganization/index.qmd
+      - text: "CV"
+        href: cv.pdf
     right:
       - icon: linkedin
         href: https://linkedin.com/in/laurapacin
