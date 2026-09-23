@@ -7,5 +7,5 @@ toc: false
 
 <!--  **Correspondence studies and discrimination**  -->
 
-<!--  Hosted at the [**Centre for Research on Social Inequalities (CRIS)**](https://www.sciencespo.fr/cris/en/)   -->
+ Hosted at the [**Centre for Research on Social Inequalities (CRIS)**](https://www.sciencespo.fr/cris/en/) 
 
