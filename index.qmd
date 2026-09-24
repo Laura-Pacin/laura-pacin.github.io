@@ -33,7 +33,7 @@ toc: false
 
 My research focuses on [discrimination and inequalities in the labor market]{.hl}. In particular, I study how [firms and labor-market institutions]{.hl} shape inequalities across hiring and careers, and the role of [public policies]{.hl} in reducing them.
 
-I am part of the DISEQUAL Project at [**Centre for Research on Social Inequalities (CRIS)**](https://www.sciencespo.fr/cris/en/), under the supervision of [**Mirna Safi**](https://sites.google.com/view/mirnasafi/home?authuser=0), and of the [**Department of Economics of Sciences Po]**(https://www.sciencespo.fr/department-economics/), under the supervision of [**Pierre Cahuc**](https://sites.google.com/site/pierrecahuc/home?authuser=0).
+I am part of the DISEQUAL Project at [**Centre for Research on Social Inequalities (CRIS)**](https://www.sciencespo.fr/cris/en/), under the supervision of [**Mirna Safi**](https://sites.google.com/view/mirnasafi/home?authuser=0), and of the [**Department of Economics of Sciences Po**](https://www.sciencespo.fr/department-economics/), under the supervision of [**Pierre Cahuc**](https://sites.google.com/site/pierrecahuc/home?authuser=0).
 
 :::
 
