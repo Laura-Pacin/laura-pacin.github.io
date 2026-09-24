@@ -3,43 +3,49 @@ pagetitle: "Laura Pacin"
 toc: false
 ---
 
-::: {.columns .homepage-hero}
+:::::: {.columns .homepage-hero}
 
-::: {.column width="44%"}
+::::: {.column width="30%"}
 
-<div class="profile-column">
+::: {.profile-column}
 
 ![](Picture.jpeg){.profile-photo}
 
+**PhD candidate at Sciences Po**\
+Department of Economics\
+Centre for Research on Social Inequalities
 
-**PhD candidate at Sciences Po **  
-*Department of Economics & Centre for Research on Social Inequalities.*
-
+<div class="contact-icons">
+<a href="mailto:laurapacin@gmail.com" aria-label="Email"><i class="bi bi-envelope"></i></a>
+<a href="https://linkedin.com/in/laurapacin" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
+<!-- Optional, if you have one:
+<a href="YOUR-GOOGLE-SCHOLAR-URL" aria-label="Google Scholar"><i class="bi bi-mortarboard"></i></a>
+-->
 </div>
+
+<p class="small-contact"><i class="bi bi-geo-alt"></i> 28 Rue des Saints-Pères<br>1 Place St Thomas d'Aquin, 75007 Paris</p>
 
 :::
 
-::: {.column width="56%"}
+:::::
 
-<div class="profile-description">
+::::: {.column width="70%"}
 
-My research focuses on discrimination and inequalities in the labor market. In particular, I study how firms and labor-market institutions shape inequalities across hiring and careers, and the role of public policies in reducing them.
+::: {.profile-description}
 
-</div>
+My research focuses on [discrimination and inequalities in the labor market]{.hl}. In particular, I study how [firms and labor-market institutions]{.hl} shape inequalities across hiring and careers, and the role of [public policies]{.hl} in reducing them.
 
-<div class="homepage-links">
-
-[Email](mailto:laurapacin@gmail.com){.btn .btn-outline-primary}
-
-[LinkedIn](https://linkedin.com/in/laurapacin){.btn .btn-outline-primary}
-
-
-</div>
-
-<p class="small-contact">
-28 Rue des Saints-Pères / 1 Place St Thomas d'Aquin, 75007 Paris
-</p>
+I am part of the DISEQUAL Project at CRIS, under the supervision of Mirna Safi, and in the Department of Economics of Sciences Po, under the supervision of Pierre Cahuc.
 
 :::
 
+::: {.homepage-links}
+
+[See my research](research.html){.btn .btn-research}
+
 :::
+
+:::::
+
+::::::
+
