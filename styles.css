@@ -223,16 +223,11 @@ a:hover {
 }
 
 .profile-photo {
-  display: block;
-  width: 100%;
-  max-width: 200px;
-  aspect-ratio: 1 / 1;
+  width: 10em;
+  height: 10em;
   object-fit: cover;
   border-radius: 50%;
-  margin: 0 auto 1rem;
-  box-shadow: 0 0 0 3px var(--accent);
-  border: 4px solid transparent;   /* small gap between photo and ring */
-  background-clip: padding-box;
+  margin-bottom: 1.2rem;
 }
 
 .contact-icons {
@@ -272,8 +267,13 @@ a:hover {
   margin-bottom: 0;
 }
 
+@import url("https://cdn.jsdelivr.net/gh/aaaakshat/cm-web-fonts@latest/fonts.css");
+
 .hl {
   color: var(--accent);
+  font-family: "Computer Modern Serif", "Latin Modern Roman", "Times New Roman", serif;
+  font-style: italic;
+  font-size: 1.1em;
 }
 
 .homepage-links {
