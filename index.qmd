@@ -37,10 +37,6 @@ I am part of the DISEQUAL Project at [**Centre for Research on Social Inequaliti
 
 :::
 
-::: {.homepage-links}
-
-[See my research](research.html){.btn .btn-research}
-
 :::
 
 :::::
