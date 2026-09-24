@@ -197,3 +197,98 @@ a {
 a:hover {
   color: var(--dark);
 }
+
+/* Add to your existing stylesheet (or replace the old .homepage-hero,
+   .profile-*, .homepage-links and .small-contact rules with these).
+   No font-family is set anywhere, so your current fonts are untouched. */
+
+:root {
+  --accent: #a05d42;        /* sweater color: sample it from your photo and adjust */
+  --accent-dark: #86492f;   /* hover state */
+  --muted: #5b5b57;
+}
+
+/* Layout: identity card left, text right, tops aligned */
+.homepage-hero {
+  column-gap: 3rem;
+  align-items: flex-start;
+  padding-block: 2.5rem 3rem;
+}
+
+/* Left column */
+.profile-column {
+  text-align: center;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.profile-photo {
+  display: block;
+  width: 100%;
+  max-width: 200px;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 50%;
+  margin: 0 auto 1rem;
+  box-shadow: 0 0 0 3px var(--accent);
+  border: 4px solid transparent;   /* small gap between photo and ring */
+  background-clip: padding-box;
+}
+
+.contact-icons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin: 0.9rem 0 0.75rem;
+  font-size: 1.3rem;
+}
+
+.contact-icons a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.contact-icons a:hover,
+.contact-icons a:focus-visible {
+  color: var(--accent);
+}
+
+.small-contact {
+  font-size: 0.8rem;
+  line-height: 1.5;
+  color: var(--muted);
+  margin: 0;
+}
+
+/* Right column */
+.profile-description {
+  text-align: left;
+  font-size: 1.15rem;
+  line-height: 1.65;
+  max-width: 62ch;
+}
+
+.profile-description p:last-child {
+  margin-bottom: 0;
+}
+
+.hl {
+  color: var(--accent);
+}
+
+.homepage-links {
+  margin-top: 1.5rem;
+}
+
+.btn-research {
+  background-color: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+.btn-research:hover,
+.btn-research:focus-visible {
+  background-color: var(--accent-dark);
+  border-color: var(--accent-dark);
+  color: #fff;
+}
