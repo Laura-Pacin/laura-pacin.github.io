@@ -185,25 +185,26 @@ a {
 
 /* Phones */
 @media (max-width: 768px) {
-
-  .homepage-hero {
-    margin-top: 2rem;
+.homepage-hero.columns {
+    display: block !important;
   }
 
-  .profile-column {
-    margin-bottom: 2.5rem;
+  .homepage-hero > .column {
+    width: 100% !important;
+    max-width: 100% !important;
+    flex-basis: 100% !important;
   }
 
-  .profile-description {
-    text-align: center;
+  .homepage-hero .profile-column {
+    max-width: 100%;
+    margin: 0 auto 2rem auto;
   }
 
-  .homepage-links {
-    justify-content: center;
-  }
-
-  .small-contact {
-    text-align: center;
+  .homepage-hero .profile-description {
+    width: 100%;
+    max-width: 100%;
+    padding-left: 0 !important;
+    text-align: left;
   }
 }
 
