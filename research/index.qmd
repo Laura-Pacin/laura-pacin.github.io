@@ -14,11 +14,3 @@ toc: false
 ## Work in progress
 
 
-
-## Research assistantships
-
-- **LIEPP -- Sciences Po**, supervised by Mirna Safi and Morgane Laouénan.
-- **MESi -- IIEP (UBA-CONICET)** with the International Labour Organization.
-- **OFCE -- Sciences Po**, supervised by Raul Sampognaro.
-- **MESi -- IIEP (UBA-CONICET)**, supervised by Priscila Ramos.
-- **EDIL -- IIEP (UBA-CONICET)**, supervised by Danilo Trupkin.
