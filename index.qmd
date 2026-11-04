@@ -9,7 +9,7 @@ toc: false
 
 ::: {.profile-column}
 
-![](Picture.jpeg){.profile-photo}
+![](Picture.jpg){.profile-photo}
 
 **PhD candidate at Sciences Po**
 
